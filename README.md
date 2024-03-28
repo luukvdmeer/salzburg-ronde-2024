@@ -18,7 +18,7 @@ The classified bergs are:
 - [Paterberg](https://www.strava.com/segments/36562228)
 - [Muur](https://www.strava.com/segments/9633083)
 
-You are welcome to join the group ride, starting Sunday 31st of March at 10AM from Traklsteg bridge in the north of Salzburg. Please send me a message if you plan to do so. You can also ride the route by yourself or with your own group at any time. 
+You are welcome to join the group ride, starting Sunday 31st of March at 10AM from [Traklsteg bridge](https://www.openstreetmap.org/way/22822255) in the north of Salzburg. Please send me a message if you plan to do so. You can also ride the route by yourself or with your own group at any time. 
 
 You can also choose one of the shortcuts:
 
@@ -27,3 +27,5 @@ You can also choose one of the shortcuts:
 
 >[!NOTE]
 > Please note this is not a race nor any kind of official event. It is just a group of bike loving people meeting up for a ride. Participate at your own risk and always obey the traffic rules!
+
+![route](flanders-route.png)
